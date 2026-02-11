@@ -50,7 +50,7 @@ hy {
   },
   "authors": [],
   "body": {
-    "comment": "I do not support reducing the minimum seats to 5, I feel we should be focusing on increasing the number of active seats. Reducing a minimum lowers our acceptable bounds, increasing particpation strives for a stronger and more resilient overall CC as Hephy also points out.. If a currently proposed Parameter change passes, this proposal will be null and void as well. But I felt it worth treating this proposal as if that issue didn't exist."
+    "comment": "I do not support reducing the minimum seats to 5, I feel we should be focusing on increasing the number of active seats. Also as Hephy points out.. If a currently proposed Parameter change passes, this proposal will be null and void as well. But I felt it worth treating this proposal as if that issue didn't exist."
 },
   "hashAlgorithm": "blake2b-256"
 }
